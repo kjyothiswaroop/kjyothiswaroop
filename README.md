@@ -5,13 +5,14 @@
 
 I'm an MS Robotics student at Northwestern University passionate about building intelligent robotic systems.
 
-## 🎓 Currently Learning
+<!-- ## 🎓 Currently Learning
 - 🤖 ROS2
 - 🧠 ML & AI in Robotics
 - 🦾 Robotic Manipulation
+-->
 
 ## 🤖 Areas of Expertise
-- **🦾 Robotics**:  ROS2, MoveIt, Path Planning, SLAM, Filters
+- **🦾 Robotics**:  ROS2, MoveIt, Path Planning, SLAM, Filters, Robot Manipulation
 - **🧠 Machine Learning**: Neural Networks, Computer Vision for Robotics
 - **⚙️ Programming Languages**:  C++, Python
 - **🔧Tools**: Git, Docker, Linux, CMake, Gazebo, Behaviour Trees
