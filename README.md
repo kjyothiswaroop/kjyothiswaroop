@@ -11,11 +11,10 @@ I'm an MS Robotics student at Northwestern University passionate about building 
 - 🦾 Robotic Manipulation
 
 ## 🤖 Areas of Expertise
-- **🦾 Robot Manipulation & Control**:  ROS2, MoveIt, Franka Emika Panda
-- **🗺️ Navigation & SLAM**: Path Planning, Kalman Filtering, 3D LiDAR-based Mapping & Localization, Multi-Agent Path Planning
+- **🦾 Robotics**:  ROS2, MoveIt, Path Planning, SLAM, Filters
 - **🧠 Machine Learning**: Neural Networks, Computer Vision for Robotics
-- **⚙️ Systems**:  C++, Python, Gazebo Simulation, Behaviour Trees
-- **🔧Tools**: Git, Docker, Linux, CMake
+- **⚙️ Programming Languages**:  C++, Python
+- **🔧Tools**: Git, Docker, Linux, CMake, Gazebo, Behaviour Trees
   
 ## 📬 Let's Connect!
 I'm always excited to discuss SLAM, path planning, control systems, and anything robotics! Reach out to me on: 
