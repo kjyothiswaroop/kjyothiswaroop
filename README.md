@@ -1,4 +1,4 @@
-# Hey! I am K Jyothiswaroop 👋
+# Hey! I am Jyothi Swaroop 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kjswaroop-robotics/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:jyothikasina2026@u.northwestern.edu)
